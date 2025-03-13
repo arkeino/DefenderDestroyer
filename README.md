@@ -1,0 +1,1 @@
+Retirer definitivement windows defender.
